@@ -1,4 +1,5 @@
 # Envision
+Here at Envision, we built a site where teachers and students can ideate their creativity. This platform helps you and your peers come together to create amazing masterpieces and provide positive feedback on other pieces of art in your school community.
 
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
